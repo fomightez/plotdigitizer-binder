@@ -1,0 +1,10 @@
+opencv-python-headless
+plotdigitizer
+scipy
+pillow
+pandas
+seaborn
+peakutils
+matplotlib
+plotly
+psutil
