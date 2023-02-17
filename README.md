@@ -1,5 +1,5 @@
 # plotdigitizer-binder
-Python-based [PlotDigitizer](https://github.com/dilawar/PlotDigitizer) working in sessions served via MyBInder.org
+Python-based [PlotDigitizer](https://github.com/dilawar/PlotDigitizer) working 'headless' in sessions served via MyBInder.org
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/plotdigitizer-binder/HEAD)
 
